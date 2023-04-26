@@ -18,7 +18,7 @@
 
 <div>
 <a href="https://github.com/yagohs">
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagohs&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagohs&layout=compact&langs_count=9&theme=dark"/>
 <img height="180em" width="49% "src="https://github-readme-stats.vercel.app/api?username=yagohs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
